@@ -1,1 +1,1 @@
-# at-sopt-android-template
+# AT SOPT ANDROID
